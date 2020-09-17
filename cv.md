@@ -48,7 +48,7 @@ GIT/Git flow|Intern
 * Redux
 * Redux-thunk
 
-**Role:**  Frontend developer
+**Role:**  Frontend developer  
 **Responsibilities:**   Implementation of new features
 
 ## Courses
